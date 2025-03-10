@@ -19,6 +19,16 @@ There are 3 models constructed:
 - The average model showed that about 51% of the samples could be processed within 24 hours, while Monte Carlo simulations showed that reducing the DNA sequencer capacity and technician job tasks improved processing times.
 - The mean total time for samples in the system under the Monte Carlo simulation was significantly higher, with the scenario where improving the DNA Sequencer Capacity and recuding Technician Waiting time provides the best results at 54.65% of samples processed in under 24 hours.
 
+**Tools**
+- MS Excel: Utilized for data modeling and simulations.
+- @RISK: Used for creating probability distributions and running Monte Carlo simulations.
 
+**License**
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
+**Disclaimer**
+This repository is the proprietary work of [Kayalks](NOTICE) and is part of a Master's dissertation project.
 
+**Copyrights**
+All Rights Reserved: Unauthorized use, distribution, or reproduction of this repository is strictly prohibited.
+For permission to use this work, please contact **[Kayalvizhi Selvaraj](https://www.linkedin.com/in/kayalvizhiks/)**.
