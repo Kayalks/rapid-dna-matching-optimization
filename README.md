@@ -24,7 +24,7 @@ There are 3 models constructed:
 - @RISK: Used for creating probability distributions and running Monte Carlo simulations.
 
 **License**
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 **Disclaimer**
 This repository is the proprietary work of [Kayalks](NOTICE) and is part of a Master's dissertation project.
